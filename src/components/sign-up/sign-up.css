@@ -1,0 +1,23 @@
+.signup-form{
+   /* width: 100%;
+    max-width: 330px;
+    padding:15px;
+    margin:auto;
+    height:100%;*/
+    float:right;
+    margin-top:-500px;
+    margin-right: 200px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .backgroundImage2{
+
+    background-image: url("https://media.istockphoto.com/vectors/social-media-marketing-vector-id1041187880?k=6&m=1041187880&s=612x612&w=0&h=BYaCG862jHt51AYcYrV2jILsvgZWf-MbfwGcWx3KNb0=");
+    height:600px;
+    width: 690px;
+   margin-left:30px;
+   margin-top:10px;
+  }
